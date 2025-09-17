@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "FantasyGuantlet",
-    "slug": "FantasyGuantlet",
+    "name": "bord.",
+    "slug": "bord.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "fantasyguantlet",
+    "scheme": "bord.",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
